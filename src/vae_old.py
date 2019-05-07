@@ -1,5 +1,5 @@
 import numpy as np
-import data
+from src import data
 import tensorflow as tf
 import math
 import matplotlib.pyplot as plt
